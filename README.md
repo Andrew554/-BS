@@ -3,4 +3,4 @@
 
 ** 运行效果图 **
 
-[image](https://github.com/coderLL/BS/blob/master/photos/1-1.png)!
+![image](https://github.com/coderLL/BS/blob/master/photos/1-1.png)
